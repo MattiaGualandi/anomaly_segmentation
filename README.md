@@ -8,8 +8,8 @@ The notebook is meant to be run on Google Colab following the next instructions.
 - Download from the Virtuale submssion page the submitted file: main.ipynb, and images folder.
 - Download weights from the following link [here](https://liveunibo-my.sharepoint.com/:f:/g/personal/mattia_gualandi2_studio_unibo_it/Elw7eSBUn6lAmBM6KN308mIBiQmbeXD85AHo1OL6YQxZGA?e=nNsc2s).
 - Download data from the following links:
-   - [Train and validation](https://people.eecs.berkeley.edu/~hendrycks/streethazards_train.tar).
-   - [Test set](https://people.eecs.berkeley.edu/~hendrycks/streethazards_test.tar).
+   - [Train and validation](https://people.eecs.berkeley.edu/~hendrycks/streethazards_train.tar)
+   - [Test set](https://people.eecs.berkeley.edu/~hendrycks/streethazards_test.tar)
      
    Now put them in a folder called "data".
 
