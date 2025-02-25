@@ -44,7 +44,7 @@ If for any reason you already have the data extracted you can comment that cell 
 ## Running the Notebook
 
 - Once your environment is set up, simply select **Runtime > Run All** in Colab to execute the entire notebook.
-- By default, the notebook doesn't perform training and it runs full inference on the test set using the best model.
+- By default, the notebook doesn't perform training and it runs full inference on the test set using the best model (inference takes approximately 1 hour).
 
 ## Configuration Options
 
