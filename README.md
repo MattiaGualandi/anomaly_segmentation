@@ -44,13 +44,12 @@ If for any reason you already have the data extracted you can comment that cell 
 ## Running the Notebook
 
 - Once your environment is set up, simply select **Runtime > Run All** in Colab to execute the entire notebook.
-- By default, the notebook doesn't perform training and it runs full inference on the test set using the best model (inference takes approximately 1 hour).
+- By default, the notebook doesn't perform training and it runs full inference on the test set using the best model in its best configuration (inference takes approximately 1 hour).
 
 ## Configuration Options
 
 - The notebook is designed with the possibility to choose to train, compute validation metrics, and run inference with different configurations in the ablation section. 
 You can:
-  - Enable  by cha
   - Enable training and validation by changing their respective flags.
   - Perform inference with different settings by modifying the respective flags and configuration within the notebook.
 
