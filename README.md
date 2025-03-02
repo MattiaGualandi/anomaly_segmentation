@@ -38,8 +38,7 @@ anomaly_segmentation/
 
 │   └── (Contains the dataset)
 
-NOTE: Note that file are downloaded in .tar format. The notebook has a cell to manage the extraction but it takes a while.
-If for any reason you already have the data extracted you can comment that cell in the notebook. It is in the "DATA PREPARATION" section.
+NOTE: Note that data are expected to be uploaded in .tar format, as they are downloaded from the link above. The notebook has a cell to manage the extraction (it takes around 7 minutes).
 
 ## Running the Notebook
 
@@ -48,7 +47,7 @@ If for any reason you already have the data extracted you can comment that cell 
 
 ## Configuration Options
 
-- The notebook is designed with the possibility to choose to train, compute validation metrics, and run inference with different configurations in the ablation section. 
+- The notebook is designed with the possibility of choosing to train, compute validation metrics, and run inference with different configurations in the ablation section. 
 You can:
   - Enable training and validation by changing their respective flags.
   - Perform inference with different settings by modifying the respective flags and configuration within the notebook.
