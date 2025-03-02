@@ -5,8 +5,10 @@ This repository contains a Colab notebook, together with folders needed to run i
 The notebook is meant to be run on Google Colab following the next instructions.
 
 ## Setup
-- Download from the Virtuale submission page the submitted file: main.ipynb, and images folder.
-- Download weights from the following link [here](https://liveunibo-my.sharepoint.com/:f:/g/personal/mattia_gualandi2_studio_unibo_it/Elw7eSBUn6lAmBM6KN308mIBiQmbeXD85AHo1OL6YQxZGA?e=nNsc2s).
+- Download from the Virtuale submission page the submitted file: main.ipynb, images, and README.
+  Then create a folder called "images" and put inside it all the .png files downloaded.
+  
+- Download weights folder from the following link [here](https://liveunibo-my.sharepoint.com/:f:/g/personal/mattia_gualandi2_studio_unibo_it/Elw7eSBUn6lAmBM6KN308mIBiQmbeXD85AHo1OL6YQxZGA?e=nNsc2s).
 - Download data from the following links:
    - [Train and validation](https://people.eecs.berkeley.edu/~hendrycks/streethazards_train.tar)
    - [Test set](https://people.eecs.berkeley.edu/~hendrycks/streethazards_test.tar)
