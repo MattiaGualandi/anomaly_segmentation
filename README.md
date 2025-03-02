@@ -13,7 +13,7 @@ The notebook is meant to be run on Google Colab following the next instructions.
      
    Now put them in a folder called "data".
 
-Once all the files and folders have been downloaded, create a folder called "anomaly_segmentation" in your Google Drive and upload the everything inside it.
+Once all the files and folders have been downloaded, create a folder called "anomaly_segmentation" in your Google Drive and upload everything inside it.
 The final structure of the created folder must be the following:
 
 anomaly_segmentation/
